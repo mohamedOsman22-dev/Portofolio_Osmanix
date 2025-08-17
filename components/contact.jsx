@@ -98,7 +98,7 @@ export default function Contact() {
                   </svg>
                 </a>
                 <a
-                  href="linkedin.com/in/mohamed-othman22"
+                  href="https://linkedin.com/in/mohamed-othman22"
                   className="p-3 bg-gray-800 rounded-lg text-gray-400 hover:text-white hover:bg-gray-700 transition-all"
                 >
                   <svg
